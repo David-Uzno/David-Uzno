@@ -1,15 +1,26 @@
 <h1 align="center">Hola, soy David Uzno<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Acerca de Mí
-✍️ Soy estudiante de Producción de Simuladores y Videojuegos con experiencia en C# y Unity.  
+✍️ Soy estudiante de Producción de Simuladores y Videojuegos con experiencia en C# y Unity.
 
-🎓 En mi carrera universitaria estoy adquiriendo experiencia en la programación y en el diseño de videojuegos, desarrollando habilidades técnicas y creativas.  
+🎯 Busco seguir perfeccionando mis habilidades y contribuir en proyectos desafiantes con los que pueda crecer profesional y personalmente. Siempre innovando y creando experiencias únicas para los jugadores.
 
-🎮 Desde joven, los videojuegos han sido una fuente de inspiración y motivación, impulsándome a querer entender y crear mundos interactivos.  
+## Tecnologías y Herramientas
+**Motor de Juego**<br>
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-blue?logo=c-sharp&style=for-the-badge)
 
-🎯 Busco seguir perfeccionando mis habilidades y contribuir en proyectos desafiantes con los que pueda crecer profesional y personalmente. Buscando siempre innovar y crear experiencias únicas para los jugadores.
+**Herramientas de Desarrollo**<br>
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6e5494?logo=github&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge)
 
+**Gestión de Proyectos**<br>
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&style=for-the-badge)
+
+## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-uzno&show_icons=true&theme=transparent&locale=es)
 
 ## Contacto
-Correo: [daviduzno@outlook.com](mailto:daviduzno@outlook.com)
+- ✉️ Correo: [daviduzno@outlook.com](mailto:daviduzno@outlook.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/daviduzno/](https://www.linkedin.com/in/daviduzno/)
