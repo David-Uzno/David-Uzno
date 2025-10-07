@@ -26,7 +26,7 @@
 - Español: Nativo<br>
 - Inglés: Nivel A1 Básico
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=David549982&theme=mint)
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=DavidUzno&theme=mint)
 
 ## Contacto
 - ✉️ Correo: [daviduzno@outlook.com](mailto:daviduzno@outlook.com)
