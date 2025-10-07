@@ -17,6 +17,7 @@
 **Gestión de Proyectos**<br>
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&style=for-the-badge)
+![Todoist](https://img.shields.io/badge/Todoist-FF3E3E?logo=todoist&style=for-the-badge)
 
 ## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-uzno&show_icons=true&theme=transparent&locale=es)
