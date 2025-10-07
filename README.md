@@ -22,12 +22,6 @@
 ## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-uzno&show_icons=true&theme=transparent&locale=es)
 
-## Idiomas
-- Español: Nativo<br>
-- Inglés: Nivel A1 Básico
-
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=DavidUzno&theme=mint)
-
 ## Contacto
 - ✉️ Correo: [daviduzno@outlook.com](mailto:daviduzno@outlook.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/daviduzno/](https://www.linkedin.com/in/daviduzno/)
